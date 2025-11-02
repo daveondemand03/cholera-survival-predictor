@@ -40,4 +40,4 @@ Manual calculations were performed to validate the system outputs, confirming th
 
 ##  Conclusion
 This study demonstrates the usefulness of **mathematical modeling** in predicting post-outbreak survival outcomes.  
-The tool developed can assist **public health decision-makers** by providing a simple, reliable, and interpretable means to forecast cholera survivorship trends — without the complexity of advanced machine learning or large-scale epidemiological datasets.
+The tool developed can assist **public health decision-makers** by providing a simple, reliable, and interpretable means to forecast cholera survivorship trends without the complexity of advanced machine learning or large-scale epidemiological datasets.
